@@ -1,0 +1,75 @@
+#######################################
+# OS / System
+#######################################
+.DS_Store
+Thumbs.db
+
+#######################################
+# IDE / Editor
+#######################################
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+.settings/
+.project
+.classpath
+
+#######################################
+# Logs
+#######################################
+*.log
+logs/
+
+#######################################
+# ENV FILES (both frontend & backend)
+#######################################
+frontend/.env
+frontend/.env.*
+backend/.env
+backend/.env.*
+
+# allow example env files to be committed
+!frontend/.env.example
+!backend/.env.example
+
+#######################################
+# FRONTEND (React + Vite)
+#######################################
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.vite/
+frontend/coverage/
+frontend/*.tsbuildinfo
+
+#######################################
+# BACKEND (Spring Boot / Java)
+#######################################
+backend/target/
+backend/build/
+backend/out/
+backend/.gradle/
+
+# compiled files
+backend/*.class
+backend/*.jar
+backend/*.war
+backend/*.ear
+
+#######################################
+# Maven / Gradle wrapper binaries
+#######################################
+# keep wrappers tracked (recommended)
+!backend/.mvn/wrapper/maven-wrapper.jar
+!backend/gradle/wrapper/gradle-wrapper.jar
+
+#######################################
+# Temp / misc
+#######################################
+tmp/
+temp/
+*.tmp
+*.bak
+*.orig
