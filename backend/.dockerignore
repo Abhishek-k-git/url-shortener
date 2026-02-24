@@ -1,0 +1,7 @@
+.mvn/
+.gradle/
+target/
+build/
+.gitignore
+Dockerfile
+README.md
