@@ -78,7 +78,7 @@ const LandingPage = () => {
           </h1>
 
           <p className="text-lg text-neutral-600 max-w-2xl mx-auto mb-10 animate-fade-up delay-200">
-            linke turns your long, messy URLs into clean short links with powerful analytics dashboards —
+            leenke turns your long, messy URLs into clean short links with powerful analytics dashboards —
             so you always know who's clicking and when.
           </p>
 
@@ -147,7 +147,7 @@ const LandingPage = () => {
               <div className="flex items-center gap-2 p-2.5 rounded-xl"
                 style={{ background: 'var(--color-primary-50)' }}>
                 <span className="text-xs font-medium" style={{ color: 'var(--color-primary-500)' }}>Short URL:</span>
-                <span className="text-xs font-mono font-bold" style={{ color: 'var(--color-primary-700)' }}>linke._/aB3xYz</span>
+                <span className="text-xs font-mono font-bold" style={{ color: 'var(--color-primary-700)' }}>leenke.netlify.app/aB3xYz</span>
                 <span className="ml-auto text-xs px-2 py-0.5 rounded-full font-medium"
                   style={{ background: 'var(--color-accent-100)', color: 'var(--color-accent-700)' }}>
                   142 clicks
@@ -187,7 +187,7 @@ const LandingPage = () => {
               <span className="text-gradient">grow your reach</span>
             </h2>
             <p className="text-neutral-500 max-w-xl mx-auto">
-              Simple tools, powerful results. Whether you're a marketer, developer, or creator — linke has you covered.
+              Simple tools, powerful results. Whether you're a marketer, developer, or creator — leenke has you covered.
             </p>
           </div>
 
@@ -268,7 +268,7 @@ const LandingPage = () => {
                 Ready to shrink your URLs?
               </h2>
               <p className="text-white/80 mb-8 max-w-lg mx-auto">
-                Join thousands of teams using linke to manage and track their links. Free forever.
+                Join thousands of teams using leenke to manage and track their links. Free forever.
               </p>
               <Link
                 to={isAuthenticated ? '/dashboard' : '/register'}

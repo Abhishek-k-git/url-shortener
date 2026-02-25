@@ -17,10 +17,10 @@ const Footer = () => {
               </div> */}
               {/* <span className="text-lg font-bold font-assistant text-gradient"
                 style={{ fontFamily: 'var(--font-display)' }}>
-                linke
+                leenke
               </span> */}
               <h1 className="text-xl font-bold tracking-tighter" style={{ fontFamily: 'Pacifico, cursive' }}>
-                linke
+                leenke
               </h1>
             </Link>
             <p className="text-sm text-neutral-500 leading-relaxed max-w-xs">
@@ -75,7 +75,7 @@ const Footer = () => {
         {/* Bottom bar */}
         <div className="pt-8 border-t border-neutral-100 flex flex-col sm:flex-row items-center justify-between gap-3">
           <p className="text-xs text-neutral-400">
-            © {year} linke. Built with ❤️ using Spring Boot & React.
+            © {year} leenke. Built with ❤️ using Spring Boot & React.
           </p>
           <div className="flex items-center gap-4">
             <span className="text-xs text-neutral-400 hover:text-neutral-600 cursor-pointer transition-colors">Privacy</span>

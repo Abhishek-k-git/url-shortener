@@ -13,9 +13,9 @@ const NotFoundPage = () => (
         style={{ background: 'linear-gradient(135deg, var(--color-primary-500), var(--color-secondary-500))' }}>
         <FiLink2 className="text-white text-base" />
       </div> */}
-      {/* <span className="text-xl font-bold text-gradient" style={{ fontFamily: 'var(--font-display)' }}>linke</span> */}
+      {/* <span className="text-xl font-bold text-gradient" style={{ fontFamily: 'var(--font-display)' }}>leenke</span> */}
       <h1 className="text-xl font-bold tracking-tighter" style={{ fontFamily: 'Pacifico, cursive' }}>
-        linke
+        leenke
       </h1>
     </Link>
 

@@ -47,10 +47,10 @@ const Navbar = () => {
               className="text-lg font-bold font-assistant text-gradient"
               style={{ fontFamily: 'var(--font-display)' }}
             >
-              linke
+              leenke
             </span> */}
             <h1 className="text-xl font-bold tracking-tighter" style={{ fontFamily: 'Pacifico, cursive' }}>
-              linke
+              leenke
             </h1>
           </Link>
 

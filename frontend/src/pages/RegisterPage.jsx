@@ -89,9 +89,9 @@ const RegisterPage = () => {
             style={{ background: 'linear-gradient(135deg, var(--color-primary-500), var(--color-secondary-500))' }}>
             <FiLink2 className="text-white text-sm" />
           </div> */}
-          {/* <span className="font-bold text-lg text-gradient" style={{ fontFamily: 'var(--font-display)' }}>linke</span> */}
+          {/* <span className="font-bold text-lg text-gradient" style={{ fontFamily: 'var(--font-display)' }}>leenke</span> */}
           <h1 className="text-xl font-bold tracking-tighter" style={{ fontFamily: 'Pacifico, cursive' }}>
-            linke
+            leenke
           </h1>
         </Link>
 
@@ -188,9 +188,9 @@ const RegisterPage = () => {
           {/* <div className="w-9 h-9 rounded-xl bg-white/20 backdrop-blur flex items-center justify-center">
             <FiLink2 className="text-white text-base" />
           </div> */}
-          {/* <span className="text-white text-xl font-bold" style={{ fontFamily: 'var(--font-display)' }}>linke</span> */}
+          {/* <span className="text-white text-xl font-bold" style={{ fontFamily: 'var(--font-display)' }}>leenke</span> */}
           <h1 className="text-xl font-bold tracking-tighter" style={{ fontFamily: 'Pacifico, cursive' }}>
-            linke
+            leenke
           </h1>
         </Link>
 
@@ -213,7 +213,7 @@ const RegisterPage = () => {
           ))}
         </div>
 
-        <p className="text-white/40 text-xs relative z-10">© {new Date().getFullYear()} linke</p>
+        <p className="text-white/40 text-xs relative z-10">© {new Date().getFullYear()} leenke</p>
       </div>
     </div>
   )
